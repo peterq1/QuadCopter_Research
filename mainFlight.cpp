@@ -1,4 +1,4 @@
-//	Navy Drone Project
+//	
 //  mainFlight.cpp
 //  mainFlight
 //
