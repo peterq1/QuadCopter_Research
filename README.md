@@ -1,13 +1,10 @@
 QuadCopter_Research
 ===================
 
-Flight Control Code
--Our research team created our own flight control code with a PID controller
--PID controller is based on open source code found here: 
-  http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
--Team members: Matthew Bailey, Peter Quan, Yosub Lee, Marc Murphy, Mohammed Rezwanul Islam, Arun Rai & Xin Gan
--Working with Dr. Stilwell
+Research Team Members: Matthew Bailey, Peter Quan and Yosub Lee
+Professor: Dr. Stilwell
 
-
-Purpose
--Construct a Quadcopter and design a flight controller to operate autonomously
+This is our research team's Flight Control code with a PID controller. One Gumstix Overo 
+FireSTORM was used as the main Flight Control board and another was used, with an e-CAM56
+attachment, to capture imagae data. The sensors used were the VN-100 Rugged IMU/AHRS, 
+an Ultrasonic Range Finder and a Pololu Micro Maestro servo controller.
