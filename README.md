@@ -2,6 +2,7 @@ QuadCopter_Research
 ===================
 
 Research Team Members: Matthew Bailey, Peter Quan and Yosub Lee
+
 Professor: Dr. Stilwell
 
 This is our research team's Flight Control code with a PID controller. One Gumstix Overo 
