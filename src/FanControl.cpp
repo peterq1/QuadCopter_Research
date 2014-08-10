@@ -3,7 +3,6 @@
 //  FanControl
 //
 //  Created by Matthew Bailey, Yosub Lee and Peter Quan on 7/23/14.
-//
 //  Copyright (c) 2014 Matthew Bailey, Yosub Lee and Peter Quan. All rights reserved.
 //
 

@@ -3,7 +3,7 @@
 //  Checks Angle values from AHRS(vn-100), and it runs PID and controls motors(x,y axis)
 //  Additionally, It logs pid value and gyro values; x, y, z
 //
-//  Created by Matthew Bailey, Yosub Lee & Peter Quan on 7/23/14.
+//  Created by Matthew Bailey, Yosub Lee and Peter Quan on 7/23/14.
 
 //  Copyright (c) 2014 Matthew Bailey, Yosub Lee and Peter Quan  All rights reserved.
 ///////////////////////////////////////////////////
