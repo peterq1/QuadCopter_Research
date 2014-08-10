@@ -2,9 +2,8 @@
 //  mainFlight.cpp
 //  mainFlight
 //
-//  Created by Matthew Bailey, Yosub Lee, Peter Quan, Marc Murphy, 
-//	Mohammed Rezwanul Islam, Arun Rai & Xin Gan
-//  Copyright (c) 2014 Yosub Lee. All rights reserved.
+//  Created by Matthew Bailey, Peter Quan and Yosub Lee
+//  Copyright (c) 2014 Matthew Bailey, Peter Quan and Yosub Lee. All rights reserved.
 //
 
 #include <iostream>

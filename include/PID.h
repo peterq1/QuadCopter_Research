@@ -2,8 +2,8 @@
 //  PID.h
 //  PID
 //
-//  Created by Yosub Lee & Peter Quan on 7/15/14.
-//  Copyright (c) 2014 Yosub Lee & Peter Quan. All rights reserved.
+//  Created by Matthew Bailey, Yosub Lee and Peter Quan on 7/15/14.
+//  Copyright (c) 2014 Matthew Bailey, Yosub Lee and Peter Quan. All rights reserved.
 //
  
 #ifndef PID_CONTROL

@@ -2,8 +2,8 @@
 //  pinRead.cpp
 //  pinRead
 //
-//  Created by Matthew Bailey, Peter Quan, Yosub Lee and Marc Murphy on 06/15/14.
-//  Copyright (c) 2014 Matthew Bailey, Peter Quan, Yosub Lee and Marc Murphy. All rights reserved.
+//  Created by Matthew Bailey, Peter Quan and Yosub Lee on 06/15/14.
+//  Copyright (c) 2014 Matthew Bailey, Peter Quan and Yosub Lee. All rights reserved.
 //
 
 /**

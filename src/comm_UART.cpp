@@ -2,8 +2,8 @@
 //  comm_UART.cpp
 //  comm_UART
 //
-//  Created by Matthew Bailey, Peter Quan, Yosub Lee and Marc Murphy on 7/10/14.
-//  Copyright (c) 2014 Matthew Bailey, Peter Quan, Yosub Lee and Marc Murphy. All rights reserved.
+//  Created by Matthew Bailey, Peter Quan and Yosub Lee on 7/10/14.
+//  Copyright (c) 2014 Matthew Bailey, Peter Quan and Yosub Lee. All rights reserved.
 //
 
 /**
